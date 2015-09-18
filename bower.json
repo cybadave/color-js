@@ -1,12 +1,12 @@
 {
-  "name": "brehaut/color-js",
+  "name": "cybadave/color-js",
   "version": "1.0.2",
   "main": "color.js",
   "description": "A color management API for JavaScript",
   "license": "BSD 2-Clause",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brehaut/color-js.git"
+    "url": "git+https://github.com/cybadave/color-js.git"
   },
   "ignore": [
     ".jshintrc",
