@@ -1,0 +1,26 @@
+{
+  "name": "brehaut/color-js",
+  "version": "1.0.2",
+  "main": "color.js",
+  "description": "A color management API for JavaScript",
+  "license": "BSD 2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brehaut/color-js.git"
+  },
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "devDependencies": {
+    "vows": "~0.8.1"
+  },
+  "authors": [
+    "Andrew Brehaut <andrew@brehaut.net> (https://brehaut.net/)",
+    "Tim Baumann <tim@timbaumann.info> (http://timbaumann.info)",
+    "Matt Wilson (http://problemattic.net)",
+    "Simon Heimler",
+    "Michel Vielmetter",
+    "Jim O'Brien <git@jimmed.net>"
+  ]
+}
